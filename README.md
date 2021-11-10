@@ -1,7 +1,8 @@
 # ProjetoFinal
 ## Projeto Final do Módulo 02 da BLUE EdTech.
 
-link da aplicação: (https://projetofinaldois.herokuapp.com/)
+link da aplicação: https://projetofinaldois.herokuapp.com/
+
 Nesse Porjeto colocamos a prova nossos conhecimentos aprendidos, ao longo do módulo, em **front end**, **banco de dados relacional** e **back end**.
 Fizemos o front com **HTML5**, **CSS3 (e BootStrap)** e **JavaScritp**. Já o back end foi feito com **Python** utilizando o micro *framework* **Flask** e a dependência **SQL Alchemy** como **ORM**. Utilizamos como banco de dados o **PostgreSQL** e o **SQLite** e fizemos o deploy no **Keroku**.
 
